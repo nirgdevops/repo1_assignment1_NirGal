@@ -3,7 +3,7 @@ public class Hello_Nir_Gal{
   for (int i=1;i<=10; i++) {
   System.out.println("Hello World ..."+i);
   }
-  System.out.println("Success number 5");
+  System.out.println("Success number 6");
   }
 }
 
